@@ -247,9 +247,24 @@ Infrastructure     Docker • Kubernetes • Terraform • GitHub Actions
 
 <div align="center">
 
+<!-- GitHub Stats Cards -->
+<p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ubsmnnit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=39d353&text_color=ffffff&ring_color=39d353"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ubsmnnit&theme=tokyonight&hide_border=true&background=0d1117&stroke=A855F7&ring=39d353&fire=39d353&currStreakLabel=39d353"/>
+</p>
+
+<br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ubsmnnit&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=A855F7&point=39d353&area=true&area_color=39d353" width="100%"/>
+
+<br/><br/>
+
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ubsmnnit/ubsmnnit/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ubsmnnit/ubsmnnit/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ubsmnnit/ubsmnnit/output/snake-light.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ubsmnnit/ubsmnnit/output/snake.svg" width="100%"/>
 </picture>
 
