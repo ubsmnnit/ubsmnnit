@@ -72,6 +72,22 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">
+<a href="https://github.com/ubsmnnit/Multi-Agent-AI-Framework">🤖 Multi-Agent Framework</a>
+</h3>
+<p align="center">
+<a href="https://github.com/ubsmnnit/Multi-Agent-AI-Framework">
+<img src="https://img.shields.io/badge/★_View_Project-A855F7?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">Production multi-agent orchestration with planner, coder & reviewer agents</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/A2A-7C3AED?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
 <a href="https://github.com/ubsmnnit/KG_RAG">🔗 KG_RAG</a>
 </h3>
 <p align="center">
@@ -86,88 +102,72 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/FastAPI-059669?style=flat-square"/>
 </p>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/ubsmnnit/RAG_Mastery">🧠 RAG_Mastery</a>
-</h3>
-<p align="center">
-<a href="https://github.com/ubsmnnit/RAG_Mastery">
-<img src="https://img.shields.io/badge/★_View_Project-A855F7?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">A collection of all RAG techniques from basic to advanced</p>
-<p align="center">
-<img src="https://img.shields.io/badge/LangChain-A855F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI-7C3AED?style=flat-square"/>
-</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">
-<a href="https://github.com/ubsmnnit/RAG_Bot">🤖 RAG_Bot</a>
+<a href="https://github.com/ubsmnnit/Enterprise-RAG-System">🏢 Enterprise RAG</a>
 </h3>
 <p align="center">
-<a href="https://github.com/ubsmnnit/RAG_Bot">
+<a href="https://github.com/ubsmnnit/Enterprise-RAG-System">
 <img src="https://img.shields.io/badge/★_View_Project-F59E0B?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">RAG chatbot / assistant implementations & experiments</p>
+<p align="center">Enterprise-grade RAG with hybrid search, guardrails & observability</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-EAB308?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-CA8A04?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Langfuse-EAB308?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenSearch-CA8A04?style=flat-square"/>
 </p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">
-<a href="https://github.com/ubsmnnit/LeetCodeRepo">📚 LeetCodeRepo</a>
+<a href="https://github.com/ubsmnnit/NL2SQL-Engine">🔍 NL2SQL Engine</a>
 </h3>
 <p align="center">
-<a href="https://github.com/ubsmnnit/LeetCodeRepo">
+<a href="https://github.com/ubsmnnit/NL2SQL-Engine">
 <img src="https://img.shields.io/badge/★_View_Project-3B82F6?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">DSA + interview prep solutions (clean & structured)</p>
+<p align="center">Natural Language → SQL with schema understanding</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square"/>
-<img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Algorithms-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Snowflake-1D4ED8?style=flat-square"/>
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">
-<a href="https://github.com/ubsmnnit/DSA-Bootcamp-Java">🎓 DSA-Bootcamp-Java</a>
+<a href="https://github.com/ubsmnnit/SLM-From-Scratch">🧠 SLM From Scratch</a>
 </h3>
 <p align="center">
-<a href="https://github.com/ubsmnnit/DSA-Bootcamp-Java">
+<a href="https://github.com/ubsmnnit/SLM-From-Scratch">
 <img src="https://img.shields.io/badge/★_View_Project-EC4899?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">Java DSA bootcamp notes, assignments, and solutions</p>
+<p align="center">Build Small Language Models from zero — tokenizers to RLHF</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Structures-DB2777?style=flat-square"/>
-<img src="https://img.shields.io/badge/Algorithms-BE185D?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/DeepSpeed-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/RLHF-BE185D?style=flat-square"/>
 </p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">
-<a href="https://github.com/ubsmnnit/pandas_exercises">🐼 pandas_exercises</a>
+<a href="https://github.com/ubsmnnit/LLM-Finetuning-Toolkit">⚡ LLM Finetuning</a>
 </h3>
 <p align="center">
-<a href="https://github.com/ubsmnnit/pandas_exercises">
+<a href="https://github.com/ubsmnnit/LLM-Finetuning-Toolkit">
 <img src="https://img.shields.io/badge/★_View_Project-14B8A6?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">Pandas practice notebooks and exercises</p>
+<p align="center">Production fine-tuning with LoRA, QLoRA — deploy in hours</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-14B8A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-0D9488?style=flat-square"/>
-<img src="https://img.shields.io/badge/Jupyter-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Unsloth-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/vLLM-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-0F766E?style=flat-square"/>
 </p>
 </td>
 </tr>
@@ -263,10 +263,10 @@ Infrastructure     Docker • Kubernetes • Terraform • GitHub Actions
 
 | Project | Description |
 |---------|-------------|
-| [strata_scatch](https://github.com/ubsmnnit/strata_scatch) | Problem solving / scratchpad utilities and experiments |
-| [pandas_exercises](https://github.com/ubsmnnit/pandas_exercises) | Pandas practice notebooks and exercises |
-| [DSA-Bootcamp-Java](https://github.com/ubsmnnit/DSA-Bootcamp-Java) | Java DSA bootcamp notes, assignments, and solutions |
+| [RAG_Mastery](https://github.com/ubsmnnit/RAG_Mastery) | A collection of RAG techniques from basic to advanced |
+| [RAG_Bot](https://github.com/ubsmnnit/RAG_Bot) | RAG chatbot / assistant implementations & experiments |
 | [LeetCodeRepo](https://github.com/ubsmnnit/LeetCodeRepo) | DSA + interview prep solutions |
+| [pandas_exercises](https://github.com/ubsmnnit/pandas_exercises) | Pandas practice notebooks and exercises |
 
 </details>
 
