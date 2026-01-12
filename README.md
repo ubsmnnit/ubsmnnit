@@ -278,10 +278,10 @@ Infrastructure     Docker • Kubernetes • Terraform • GitHub Actions
 
 | Project | Description |
 |---------|-------------|
-| [RAG_Mastery](https://github.com/ubsmnnit/RAG_Mastery) | A collection of RAG techniques from basic to advanced |
-| [RAG_Bot](https://github.com/ubsmnnit/RAG_Bot) | RAG chatbot / assistant implementations & experiments |
-| [LeetCodeRepo](https://github.com/ubsmnnit/LeetCodeRepo) | DSA + interview prep solutions |
-| [pandas_exercises](https://github.com/ubsmnnit/pandas_exercises) | Pandas practice notebooks and exercises |
+| [Spark_cum_GPU_sentiment_analyzer](https://github.com/ubsmnnit/Spark_cum_GPU_sentiment_analyzer) | Distributed sentiment analysis with PySpark & GPU |
+| [Vector-Database-Benchmark](https://github.com/ubsmnnit/Vector-Database-Benchmark) | Performance benchmarks for vector databases |
+| [Lead-Scoring](https://github.com/ubsmnnit/Lead-Scoring) | ML-based lead scoring system |
+| [Deep-Learning-Projects](https://github.com/ubsmnnit/Deep-Learning-Projects) | Collection of DL implementations |
 
 </details>
 
