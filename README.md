@@ -1,94 +1,303 @@
-<!-- Profile README for: https://github.com/ubsmnnit -->
+<!-- Header with Bubble Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Uday%20Bhan&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Principal%20AI%20Engineer&descSize=20&descAlignY=55"/>
 
 <div align="center">
 
-# Uday Bhan (@ubsmnnit)
-
+<!-- Animated Role Text -->
 <a href="https://github.com/ubsmnnit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+ML+%E2%80%A2+NLP+%E2%80%A2+DL+%E2%80%A2+GenAI;RAG+%26+GraphRAG+%7C+Knowledge+Graphs+%7C+LLM+Applications;Building+reliable+AI+systems+from+prototype+to+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;Knowledge+Graph+Engineer;6%2B+Years+in+Production+AI" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<!-- Social Badges - Consistent Purple Theme -->
+<a href="https://www.linkedin.com/in/uday-bhan-singh-875560147/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:ubsmnnit@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ubsmnnit&style=for-the-badge&color=A855F7&label=Visitors" alt="Profile Views"/>
+
+<br/><br/>
+
+<!-- Experience Badges - With Color Accent -->
+<img src="https://img.shields.io/badge/🚀_Since_July_2019-6%2B_Years_in_AI%2FML-A855F7?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📦_10%2B_Repositories-Open_Source-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> &nbsp;About
+
+<table>
+<tr>
+<td>
+
+I build **production AI systems** that reason, plan, and execute autonomously — from multi-agent orchestration to enterprise RAG pipelines serving millions of requests.
+
+<br/>
+
+**🔭 Currently Building:**
+
+| Focus Area | Technologies |
+|:-----------|:-------------|
+| 🤖 **Multi-Agent AI** | LangGraph, Google ADK, MCP Tools, A2A Protocol |
+| 🔗 **Knowledge Graphs** | Neo4j GraphRAG, Hybrid Search, Reranking |
+| 👁️ **LLM Observability** | Langfuse, MLflow, OpenSearch |
+| ⚡ **Efficient Inference** | vLLM, TensorRT, Edge Deployment |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> &nbsp;Featured Work
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ubsmnnit/KG_RAG">🔗 KG_RAG</a>
+</h3>
+<p align="center">
+<a href="https://github.com/ubsmnnit/KG_RAG">
+<img src="https://img.shields.io/badge/★_View_Project-06D6A0?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">Knowledge Graph + RAG with Neo4j for intelligent document QA</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Neo4j-06D6A0?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-059669?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ubsmnnit/RAG_Mastery">🧠 RAG_Mastery</a>
+</h3>
+<p align="center">
+<a href="https://github.com/ubsmnnit/RAG_Mastery">
+<img src="https://img.shields.io/badge/★_View_Project-A855F7?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">A collection of all RAG techniques from basic to advanced</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-7C3AED?style=flat-square"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ubsmnnit/RAG_Bot">🤖 RAG_Bot</a>
+</h3>
+<p align="center">
+<a href="https://github.com/ubsmnnit/RAG_Bot">
+<img src="https://img.shields.io/badge/★_View_Project-F59E0B?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">RAG chatbot / assistant implementations & experiments</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-EAB308?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-CA8A04?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ubsmnnit/LeetCodeRepo">📚 LeetCodeRepo</a>
+</h3>
+<p align="center">
+<a href="https://github.com/ubsmnnit/LeetCodeRepo">
+<img src="https://img.shields.io/badge/★_View_Project-3B82F6?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">DSA + interview prep solutions (clean & structured)</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Algorithms-1D4ED8?style=flat-square"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ubsmnnit/DSA-Bootcamp-Java">🎓 DSA-Bootcamp-Java</a>
+</h3>
+<p align="center">
+<a href="https://github.com/ubsmnnit/DSA-Bootcamp-Java">
+<img src="https://img.shields.io/badge/★_View_Project-EC4899?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">Java DSA bootcamp notes, assignments, and solutions</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Structures-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/Algorithms-BE185D?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ubsmnnit/pandas_exercises">🐼 pandas_exercises</a>
+</h3>
+<p align="center">
+<a href="https://github.com/ubsmnnit/pandas_exercises">
+<img src="https://img.shields.io/badge/★_View_Project-14B8A6?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">Pandas practice notebooks and exercises</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-0F766E?style=flat-square"/>
+</p>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> &nbsp;Tech Stack
+
+<div align="center">
+
+<!-- Core Skills with Icons -->
 <p>
-  <a href="https://www.linkedin.com/in/uday-bhan-singh-875560147/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ubsmnnit@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ubsmnnit&style=flat-square" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=dark" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=dark" />
+</p>
+
+<br/>
+
+<!-- Specialized Tech - Purple Theme -->
+<p>
+<img src="https://img.shields.io/badge/OpenAI-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/🦜_LangChain-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔄_LangGraph-6D28D9?style=for-the-badge"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Neo4j-A855F7?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Langfuse-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLflow-6D28D9?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/🔌_MCP_Tools-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔗_A2A_Protocol-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_ADK-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-6D28D9?style=for-the-badge"/>
 </p>
 
 </div>
 
----
+<br/>
 
-## About
+<details>
+<summary><b>📋 &nbsp;Full Tech Breakdown</b></summary>
+<br/>
 
-| I build **production-grade AI systems** that combine **strong retrieval + grounding** with **robust generation** — from end-to-end RAG pipelines to **GraphRAG / Knowledge Graph** backed reasoning and evaluation-driven iteration. |
-| --- |
-
----
-
-## Current Focus
-
-| Focus Area | What I’m building with |
-| --- | --- |
-| **RAG & GraphRAG** | Hybrid retrieval, reranking, citation-first answers, query routing |
-| **Knowledge Graphs** | Neo4j modeling, entity/relationship extraction, graph-aware retrieval |
-| **Evaluation & Reliability** | Hallucination reduction, test sets, failure analysis, observability |
-
----
-
-## Featured Work
-
-| Project | Description |
-| --- | --- |
-| [🧠 RAG_Mastery](https://github.com/ubsmnnit/RAG_Mastery) | RAG techniques from basics to advanced, with practical implementations |
-| [🤖 RAG_Bot](https://github.com/ubsmnnit/RAG_Bot) | RAG chatbot / assistant implementations and experiments |
-| [📚 LeetCodeRepo](https://github.com/ubsmnnit/LeetCodeRepo) | DSA + interview prep solutions (clean and structured) |
-| [☕ DSA-Bootcamp-Java](https://github.com/ubsmnnit/DSA-Bootcamp-Java) | Java DSA bootcamp notes, assignments, and solutions |
-| [🐼 pandas_exercises](https://github.com/ubsmnnit/pandas_exercises) | Pandas practice notebooks and exercises |
-| [🗂️ strata_scatch](https://github.com/ubsmnnit/strata_scatch) | Problem solving / scratchpad utilities and experiments |
-
----
-
-## Tech Stack
-
-```text
+```
 LLM Providers      OpenAI • Anthropic • Google Gemini • Llama • Mistral
-Agent Frameworks   LangGraph • CrewAI • AutoGen • MCP Tools
-RAG Stack          LangChain • LlamaIndex • Neo4j • Vector DBs • Hybrid Search • Reranking
-Observability      Langfuse • MLflow • OpenTelemetry
-Inference          vLLM • Triton • ONNX Runtime
-Fine-tuning        PEFT • LoRA • QLoRA
-Frontend           React • Vite • TypeScript • TailwindCSS
-Backend            FastAPI • Python
-Cloud              AWS • GCP • Azure
-Infrastructure     Docker • Kubernetes • GitHub Actions
+Agent Frameworks   LangGraph • Google ADK • CrewAI • AutoGen • MCP Tools • A2A
+RAG Stack          LangChain • LlamaIndex • Neo4j • Pinecone • Weaviate • OpenSearch
+Observability      Langfuse • MLflow • Weights & Biases • OpenTelemetry
+Inference          vLLM • TensorRT-LLM • Triton • ONNX Runtime
+Fine-tuning        PEFT • LoRA • QLoRA • Unsloth • Axolotl • DeepSpeed
+Frontend           React • Vite • Next.js • TypeScript • TailwindCSS
+Backend            FastAPI • Python • Node.js • GraphQL
+Cloud              AWS (Bedrock, SageMaker) • GCP (Vertex AI) • Azure
+Infrastructure     Docker • Kubernetes • Terraform • GitHub Actions
 ```
 
+</details>
+
+<br/>
+
 ---
 
-## GitHub Stats
+<br/>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> &nbsp;Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ubsmnnit&show_icons=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubsmnnit&layout=compact&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ubsmnnit/ubsmnnit/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ubsmnnit/ubsmnnit/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ubsmnnit/ubsmnnit/output/snake.svg" width="100%"/>
+</picture>
 
 </div>
 
+<br/>
+
+<details>
+<summary><b>📂 &nbsp;More Projects</b></summary>
+<br/>
+
+| Project | Description |
+|---------|-------------|
+| [strata_scatch](https://github.com/ubsmnnit/strata_scatch) | Problem solving / scratchpad utilities and experiments |
+| [pandas_exercises](https://github.com/ubsmnnit/pandas_exercises) | Pandas practice notebooks and exercises |
+| [DSA-Bootcamp-Java](https://github.com/ubsmnnit/DSA-Bootcamp-Java) | Java DSA bootcamp notes, assignments, and solutions |
+| [LeetCodeRepo](https://github.com/ubsmnnit/LeetCodeRepo) | DSA + interview prep solutions |
+
+</details>
+
+<br/>
+
 ---
 
-## Activity
+<br/>
 
 <div align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/ubsmnnit/ubsmnnit/output/snake.svg" />
+
+<!-- CTA Section - More Prominent -->
+<img src="https://img.shields.io/badge/💼_Open_to_Collaborations-A855F7?style=for-the-badge"/>
+
+<br/><br/>
+
+### Building something complex? Let's talk.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/uday-bhan-singh-875560147/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ubsmnnit@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
----
+<br/><br/>
 
-### Let’s connect
-
-- LinkedIn: https://www.linkedin.com/in/uday-bhan-singh-875560147/
-- Email: ubsmnnit@gmail.com
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,9,15&height=100&section=footer"/>
